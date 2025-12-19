@@ -56,7 +56,7 @@ Feature engineering diseñado para series temporales por cliente (mensual):
 ## 🗂️ Estructura del repositorio
 
 ```text
-competencia_03_final/
+churn_bancario_machine_learning/
 ├─ config/                     # parámetros, paths, splits temporales, seeds, ganancia
 ├─ src/                        # carga/splits, optimización, entrenamiento, predicción
 ├─ target_feature_engineering/ # creación de target + feature engineering
